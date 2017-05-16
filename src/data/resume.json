@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "Jonathan Bloomer",
+    "label": "Lead Front End Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "jonbloomer@gmail.com",
+    "phone": "0403933281",
+    "website": "http://freaksauce.com",
+    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. In my current role at IAG I am working on an Angular Business Insurance application. I have a very strong interest in full stack javascript development and have recently been experimenting with Meteor and React as well as Typescript and Polymer as you will see from my Github repos. I have experience using build tools such as Grunt & Gulp and templating languages such as Handlebars and experience using Git with both Stash and Github. In my most recent role I have been exposed to enterprise Agile development and received training and certification in SAFe ScrumXP (Scaled Agile Framework).",
+    "location": {
+      "address": "Sutherland",
+      "postalCode": "2232",
+      "city": "Sydney",
+      "countryCode": "Aus",
+      "region": "NSW"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "jonbloomer",
+      "url": ""
+    },
+      {
+        "network": "Github",
+        "username": "freaksauce",
+        "url": ""
+      }
+    ]
+  },
+  "work": [{
+    "company": "IAG",
+    "position": "Lead Front End Developer",
+    "website": "http://nrma.com.au",
+    "startDate": "2016-08-01",
+    "endDate": "",
+    "summary": "I returned to IAG to work as a React developer on a new application. The app uses React/Redux to integrate with custom API's.",
+    "highlights": []
+  },
+    {
+      "company": "Pacific Magazines",
+      "position": "Senior Front End Developer",
+      "website": "",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-01",
+      "summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
+      "highlights": []
+    },
+    {
+      "company": "IAG",
+      "position": "UI Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2014-11-01",
+      "endDate": "2016-03-01",
+      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
+      "highlights": []
+    },
+    {
+      "company": "Reactive",
+      "position": "Front End Developer",
+      "website": "",
+      "startDate": "2014-09-01",
+      "endDate": "2014-11-30",
+      "summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
+      "highlights": []
+    },
+    {
+      "company": "City of Sydney Council",
+      "position": "Front End Developer",
+      "website": "",
+      "startDate": "2014-05-01",
+      "endDate": "2014-08-31",
+      "summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
+      "highlights": []
+    },
+    {
+      "company": "Self Employed",
+      "position": "Freelance Web Developer",
+      "website": "",
+      "startDate": "2010-03-01",
+      "endDate": "2014-05-01",
+      "summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
+      "highlights": []
+    },
+    {
+      "company": "Soap Creative",
+      "position": "Senior Web Developer",
+      "website": "http://soapcreative.com",
+      "startDate": "2006-07-01",
+      "endDate": "2010-03-01",
+      "summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
+      "highlights": []
+    },
+    {
+      "company": "M&C Saatchi",
+      "position": "Web Developer",
+      "website": "http://mcsaatchi.com.au/",
+      "startDate": "2006-05-01",
+      "endDate": "2006-08-31",
+      "summary": "Flash development with xml & amfphp for php/mysql integration.",
+      "highlights": []
+    },
+    {
+      "company": "Wunderman/GPY&R",
+      "position": "Web Developer",
+      "website": "http://www.gpyr.com.au/",
+      "startDate": "2005-07-01",
+      "endDate": "2006-05-01",
+      "summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
+      "highlights": []
+    },
+    {
+      "company": "Federal Publishing Company",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2004-07-01",
+      "endDate": "2005-03-31",
+      "summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [{
+    "institution": "Birmingham Conservatoire",
+    "area": "Music",
+    "studyType": "Bachelor (hons)",
+    "startDate": "1994-08-01",
+    "endDate": "1998-07-01",
+    "gpa": "",
+    "courses": []
+  }],
+  "awards": [],
+  "publications": [],
+  "skills": [
+      {"skill": "HTML", "level": 2},
+      {"skill": "CSS", "level": 2},
+      {"skill": "Javascript", "level": 3},
+      {"skill": "jQuery", "level": 2},
+      {"skill": "Node.js", "level": 3},
+      {"skill": "React", "level": 3},
+      {"skill": "TypeScript", "level": 3},
+      {"skill": "Express", "level": 1},
+      {"skill": "Bootstrap", "level": 2},
+      {"skill": "C", "level": 3},
+      {"skill": "C++", "level": 3},
+      {"skill": "PHP", "level": 2},
+      {"skill": "Java", "level": 2},
+      {"skill": "Android", "level": 1},
+      {"skill": "Python", "level": 1},
+      {"skill": "Assembly", "level": 2},
+      {"skill": "mySQL", "level": 3},
+      {"skill": "git", "level": 3},
+      {"skill": "Heroku", "level": 2}
+    ]
+  ,
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Guitar",
+    "keywords": []
+  }],
+  "references": []
+}
