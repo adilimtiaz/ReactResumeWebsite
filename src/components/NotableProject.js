@@ -13,7 +13,7 @@ const NotableProject = props => {
 
     return (
         <section className="work">
-            <h2 className="text-uppercase"><i className="fa fa-lg fa-building"></i> Notable Projects</h2>
+            <h2 className="text-uppercase"><i className="fa fa-cog" aria-hidden="true"></i> Notable Projects</h2>
             {getProjects()}
         </section>
     );

@@ -7,10 +7,12 @@ const Education = props => {
   		const enddate = moment(item.endDate).format('MMM, YYYY');
   		return (
           <div key={index}>
-            <h3>{item.studyType} {item.area}</h3>
+            <h3>{item.studyType}, {item.area}</h3>
   				  <h4>{item.institution}</h4>
-  				  <p>Studied: {startdate} - {enddate}</p>
-  				</div>
+  				  <p><b>Studied: </b> {startdate} - {enddate} (Anticipated graduation)</p>
+			      <p><b>Cumulative average:</b> {item.gpa}%</p>
+			      <p> Received an Outstanding International Student scholarship on admission to UBC. </p>
+		  </div>
         )
   	});
 

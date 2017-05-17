@@ -36,7 +36,6 @@ const ProjectItem = props => {
     }
     ret=ret+skillsUsed[skillsUsed.length-1];
     //helper to find the actual link for a project if there is a link in resume.js
-    var source="";
     var readSource=props.projectItemData.sourceCode;
 
     const getLink = () => {
@@ -54,6 +53,7 @@ const ProjectItem = props => {
             <b>Skills Used: </b><i className="workDates">{ret} </i>
             <p>{props.projectItemData.summary}</p>
             <p><b>Demo link: </b> {getLink()}</p>
+            <p><b>Source code: </b> <a href= {readSource}>Check it out here. </a></p>
         </div>
     )
 
